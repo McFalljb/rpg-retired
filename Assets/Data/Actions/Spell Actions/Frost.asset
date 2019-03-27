@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38759df270144f04a9dfbcad763a4201, type: 3}
+  m_Name: Frost
+  m_EditorClassIdentifier: 
+  start_anim: {fileID: 11400000, guid: 347e4c53933d4af48b10c03196f47adb, type: 2}
+  cast_anim: {fileID: 11400000, guid: 45b03bfada110f642b296e2d5076336e, type: 2}
+  changeSpeed: 1
+  animSpeed: 2
+  projectile: {fileID: 131238, guid: ae6e52b62233d6e40b21fdcf8875d124, type: 3}

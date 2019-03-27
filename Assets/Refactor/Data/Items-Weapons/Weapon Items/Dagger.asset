@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad8e78fc500191d499fa2c34847f9ddd, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  modelPrefab: {fileID: 1816357553609244290, guid: c180d7e1d1d9b2840b11d2d7797a5335,
+    type: 3}
+  itemActions:
+  - animName: rap oh attack 1
+    itemAction: {fileID: 11400000, guid: 81cc25fcc6839e440ba9e5d2ee6db512, type: 2}
+    attackInput: 0
+    isMirrored: 0
+  - animName: oh attack 2
+    itemAction: {fileID: 11400000, guid: 81cc25fcc6839e440ba9e5d2ee6db512, type: 2}
+    attackInput: 2
+    isMirrored: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b566d15daee7b04e828ee910b7c14cc, type: 3}
+  m_Name: Rotate To Look At Transform
+  m_EditorClassIdentifier: 
+  playerStates: {fileID: 11400000, guid: 527814d75df07da40a111f75729b96ec, type: 2}
+  delta: {fileID: 11400000, guid: fc0b530b10b5a6a42afdb4af28822133, type: 2}
+  speed: 200
+  cameraYTransform: {fileID: 11400000, guid: 857e24b98d538c745b422a45b0733154, type: 2}
+  pivotTransform: {fileID: 11400000, guid: 67b4d99f3f4184544aa940b64f32a43f, type: 2}
+  yAngle: {fileID: 11400000, guid: b6fdf010f8e02274b8a3377e0cb62322, type: 2}
+  xAngle: {fileID: 11400000, guid: afa6193e8a630a741bc03072a07e0e9b, type: 2}

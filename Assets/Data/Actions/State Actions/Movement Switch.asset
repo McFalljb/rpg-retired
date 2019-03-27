@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76714a330abbc924ba18d7a208c8124d, type: 3}
+  m_Name: Movement Switch
+  m_EditorClassIdentifier: 
+  boolVariable: {fileID: 11400000, guid: 80e5be664a9e0c54a8a8c194b46245de, type: 2}
+  stateActionTrue: {fileID: 11400000, guid: bc078c134b214084a82962e54a494548, type: 2}
+  stateActionFalse: {fileID: 11400000, guid: 18cb4f2f9bbaea54fa3bb096fd2b6243, type: 2}

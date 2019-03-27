@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599216916d17db544a1f39027017bcb6, type: 3}
+  m_Name: PlayerProfile
+  m_EditorClassIdentifier: 
+  profileName: 
+  rightHandWeapon:
+  - Sword
+  - Sword
+  - Dagger
+  - Sword
+  leftHandSlots:
+  - Sword
+  - Sword
+  - Axe
+  - Dagger
+  spellId:
+  - Spell
+  allItemsWeHave:
+  - Axe
+  - Dagger
+  - Sword
+  - Staff
+  wearedClothItems:
+  - Viking Chest
+  - Viking Helm
+  allStats:
+  - startingValue: 100
+    targetStat: {fileID: 11400000, guid: b7bf1ccb75851dc44bcdad78c3c6e5f7, type: 2}
+  - startingValue: 100
+    targetStat: {fileID: 11400000, guid: 771b8503d8f337a448bbb25cacfee080, type: 2}

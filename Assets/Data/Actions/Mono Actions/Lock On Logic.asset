@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63b7292f4e91e514583cafb84a3a409d, type: 3}
+  m_Name: Lock On Logic
+  m_EditorClassIdentifier: 
+  button: {fileID: 11400000, guid: 59fe24d24ae6c204095fc6e35155cae7, type: 2}
+  states: {fileID: 11400000, guid: 527814d75df07da40a111f75729b96ec, type: 2}
+  lockon: {fileID: 11400000, guid: 80e5be664a9e0c54a8a8c194b46245de, type: 2}
+  delta: {fileID: 11400000, guid: e980cbc259f590745927e8d76286f7f5, type: 2}
+  cameraTransform: {fileID: 11400000, guid: 315b1c1e319bc39419ab838c72e42230, type: 2}

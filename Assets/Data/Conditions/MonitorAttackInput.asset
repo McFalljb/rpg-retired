@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdfc1fd1b5856cd4ea345e2aa16f4431, type: 3}
+  m_Name: MonitorAttackInput
+  m_EditorClassIdentifier: 
+  description: Monitors attack Inputs
+  attackResponse: {fileID: 11400000, guid: c499f98253645994fb248422345ae34c, type: 2}
+  inpButtonVariable: {fileID: 11400000, guid: 7c469ec595086be4c85e661d35bf8567, type: 2}
